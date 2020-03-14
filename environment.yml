@@ -7,5 +7,4 @@ dependencies:
   - pandas
   - holoviews
   - panel
-  - datetime
   - matplotlib
